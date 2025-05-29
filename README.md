@@ -4,11 +4,17 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on exciting new projects!
-- 🌱 I’m currently learning new technologies and skills.
-- 👯 I’m looking to collaborate on open source projects.
-- 🤔 I’m looking for help with advanced topics in my field.
-- 💬 Ask me about my experiences and projects.
+- 🔭 現在、エキサイティングな新しいプロジェクトに取り組んでいます！
+- 🌱 新しい技術やスキルを学んでいます。
+- 👯 オープンソースプロジェクトでのコラボレーションを歓迎します。
+- 🤔 専門分野の高度なトピックについて助けを求めています。
+- 💬 私の経験やプロジェクトについて何でも聞いてください。
+- ⚡ 楽しい事実：毎日学び成長することを楽しんでいます！
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I enjoy learning and growing every day!
+
+### 💻 Languages and Tools:
+
+- Python
+- JavaScript
+- Java
